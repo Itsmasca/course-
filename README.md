@@ -1,2 +1,2 @@
 # course-
-Actividad en clase de desarrollo en java 
+Actividad en clase de desarrollo orientado en objetos 
